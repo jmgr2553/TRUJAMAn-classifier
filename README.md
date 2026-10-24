@@ -55,7 +55,7 @@ Each word is cleaned (diacritics such as the upper dot, rafe and geresh, quotati
 | Training (`1.Data/b.Training/b.1.Training/`) | 70 | 2,859,197 |
 | Evaluation (`1.Data/b.Training/b.2.Evaluation/`) | 40 | 1,073,511 |
 
-The 110 works by 36 authors come from the Judeo-Arabic portal of the **Friedberg Jewish Manuscript Society (FJMS)**, in which every word of the transcription is marked as Hebrew or Judeo-Arabic. The evaluation set holds one work by each author, plus every work by **Ben Hofni**, who is entirely absent from training and so tests the model on an unseen author.
+The 110 works by 36 authors come from the Judeo-Arabic portal of the **Friedberg Jewish Manuscript Society (FJMS)**, in which every word of the transcription is marked as Hebrew or Judeo-Arabic. The evaluation set holds one work by each author, plus every work by **Ben Hofni**. Authors with a single work in the corpus therefore appear only in evaluation: 31 of the 40 evaluation works are by 25 authors the model never saw in training.
 
 **The texts are not included in this repository**, because the FJMS terms of use do not allow them to be redistributed. The repository lists the works used (`1.Data/a.Sources/sources.csv`, and `works.csv` in each training folder) with word counts and the share of Hebrew in each. To retrain the model, add the texts from FJMS as described in `1.Training.ipynb` and run its training cell.
 
@@ -66,10 +66,12 @@ Scores on the 40 held-out works (1,070,917 words, 36% Hebrew):
 | | Works | Words | Accuracy | AUC | F1 (JA) | F1 (HE) |
 |---|---|---|---|---|---|---|
 | **All evaluation works** | 40 | 1,070,917 | **96.4%** | 0.994 | 0.972 | 0.951 |
-| Ben Hofni (author unseen in training) | 7 | 144,472 | 96.3% | 0.993 | 0.971 | 0.952 |
-| Other works (authors seen in training) | 33 | 926,445 | 96.4% | 0.994 | 0.972 | 0.951 |
+| Authors unseen in training (25 authors) | 31 | 974,869 | 96.4% | 0.993 | 0.972 | 0.950 |
+| … of which Ben Hofni | 7 | 144,472 | 96.3% | 0.993 | 0.971 | 0.952 |
+| Authors also in training (8 authors) | 8 | 95,493 | 96.6% | 0.994 | 0.968 | 0.964 |
+| Unknown author | 1 | 555 | 95.3% | 0.993 | 0.964 | 0.932 |
 
-The model does as well on an author it has never seen as on new works by known authors. Accuracy per work ranges from 89% (Ibn Quraysh, *Risāla*) to 99%. Scores for every work are in [`evaluation_scores.csv`](1.Data/b.Training/b.2.Evaluation/evaluation_scores.csv). In works with almost no Hebrew (e.g. under 1%), F1 for Hebrew is low because a handful of errors weighs heavily; accuracy is the better guide there.
+91% of the evaluation words come from authors the model has never seen, and it does as well on them as on new works by known authors. Accuracy per work ranges from 89% (Ibn Quraysh, *Risāla*) to 99%. Scores for every work are in [`evaluation_scores.csv`](1.Data/b.Training/b.2.Evaluation/evaluation_scores.csv). In works with almost no Hebrew (e.g. under 1%), F1 for Hebrew is low because a handful of errors weighs heavily; accuracy is the better guide there.
 
 ## Repository
 
@@ -80,6 +82,8 @@ The model does as well on an author it has never seen as on new works by known a
     b.1.Training/     works used for training (list only)
     b.2.Evaluation/   works held out for evaluation (list only) + evaluation_scores.csv
 1.Training.ipynb      trains the model and evaluates it
+2.Test.ipynb          tests the published model: per work, precision/recall, seen vs unseen authors,
+                      confusion matrix, language switches, confidence, frequent words and chunks
 trujaman_v0.1-beta.joblib
 ```
 
