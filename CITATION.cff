@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "TRUJAMAn: Textual Recognition Unit for Judeo-Arabic (and Hebrew) in Medieval Anthologies"
+message: If you use this model, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Juan
+    family-names: Moreno Gonzalez
+    affiliation: Faculty of Asian and Middle Eastern Studies, University of Cambridge
+    orcid: 'https://orcid.org/0009-0003-6528-0736'
+repository-code: 'https://github.com/jmgr2553/TRUJAMAn-classifier'
+url: 'https://trujaman.streamlit.app'
+license: CC-BY-NC-4.0
+version: 0.1.0-beta
+date-released: '2026-10-24'
+keywords:
+  - Judaeo-Arabic
+  - Hebrew
+  - language identification
+  - code-switching
+  - medieval manuscripts
+  - digital humanities
+references:
+  - type: database
+    title: Friedberg Jewish Manuscript Society Judeo-Arabic portal
+    url: 'https://fjms.genizah.org'
+    authors:
+      - name: The Friedberg Jewish Manuscript Society
+      - name: The National Library of Israel

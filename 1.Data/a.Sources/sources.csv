@@ -1,0 +1,111 @@
+codeName,author,title,fjmsResourceId,pages,split
+AbMaimonides_brASHyt,Abraham Maimonides,בראשית שמות פירוש,92,248,training
+AbMaimonides_hmspyk1,Abraham Maimonides,המספיק לעובדי השם (כרך ב חלק ב),14,263,training
+AbMaimonides_hmspyk2,Abraham Maimonides,המספיק לעובדי השם (כרך ט חלק א),65,42,training
+AbMaimonides_hmspyk3,Abraham Maimonides,המספיק לעובדי השם (כרך ט חלק ב),63,208,training
+AbMaimonides_tSHvbvt,Abraham Maimonides,"תשובות הראב""ם",129,214,evaluation
+AbrBenSol_SHmvAl1,Abraham ben Solomon,שמואל א פירוש,87,371,training
+AbrBenSol_SHmvAl2,Abraham ben Solomon,שמואל ב פירוש,88,296,training
+AbrBenSol_SHvpTym,Abraham ben Solomon,שופטים פירוש,86,199,training
+AbrBenSol_mlKHym,Abraham ben Solomon,מלכים א פירוש,89,427,training
+AbrBenSol_yhvSH`,Abraham ben Solomon,יהושע פירוש,85,141,evaluation
+IbnPaquda_tvrt,Bahya ibn Paquda,תורת חובות הלבבות,48,421,evaluation
+DavidBenAbraMaim_brASHyt,David ben Abraham Maimonides,בראשית פרוש (מדרש הנגיד),131,36,evaluation
+DavidBenAbraMaim_prky,David ben Abraham Maimonides,פרקי אבות (מדרש דוד),130,214,training
+DavidBenJoshMaim_mvrh,David ben Joshua Maimonides,מורה הפרישות,134,48,evaluation
+alMuqammis_`SHrym,Dawud al-Muqammis,עשרים מאמרים,99,124,evaluation
+HaiG_mSHpTy,Hai Gaon,משפטי שבועות,113,136,evaluation
+HefBenYatz_spr,Hefetz ben Yatzliah,ספר המצוות לחפץ בן יצליח,104,97,evaluation
+HotBenSol_SHAlvt,Hoter ben Solomon,שאלות,81,71,evaluation
+IbnBarun_spr,Isaac ibn Barun,ספר המאזניים,123,118,evaluation
+IbnGhiyath_khlt,Isaac ibn Ghiyath,קהלת פירוש (ספר הפרישות),27,98,evaluation
+IbnJanah_spr1,Jonah ibn Janah,ספר ההשוואה,15,20,training
+IbnJanah_spr2,Jonah ibn Janah,ספר הרקמה,64,386,training
+JosBenSimeon_Aygrt,Joseph ben Simeon,איגרת ההשתקה,125,29,evaluation
+IbnAknin_htglvt,Joseph ibn Aknin,התגלות הסודות,94,251,evaluation
+JoshNag_tSHvbvt,Joshua ha-Nagid,תשובות יהושע הנגיד,133,49,evaluation
+JudahHaLev_spr,Judah Halevi,ספר הכוזרים,95,228,evaluation
+Hayyuj_spr,Judah Hayyuj,ספר המריטה,111,102,evaluation
+JudahRosh_spr,Judah Rosh ha-Seder,ספר השנים,108,21,evaluation
+alHarizi_ms`y,Judah al-Harizi,מסעי יהודה,140,27,evaluation
+alHarizi_spr,Judah al-Harizi,ספר פניני המוסרים,139,86,training
+IbnBalam_SHlSHh,Judah ibn Balam,שלשה ספרי דקדוק,142,101,training
+IbnBalam_SHvpTym,Judah ibn Balam,שופטים פירוש בן בלעם,118,17,training
+IbnBalam_try,Judah ibn Balam,תרי עשר פירוש בן בלעם,122,40,training
+IbnBalam_yHzkAl,Judah ibn Balam,יחזקאל פירוש בן בלעם,120,144,training
+IbnBalam_ySH`yhv,Judah ibn Balam,ישעיהו פירוש בן בלעם,117,233,training
+IbnBalam_yhvSH`,Judah ibn Balam,יהושע פירוש בן בלעם,121,13,evaluation
+IbnBalam_yrmyhv,Judah ibn Balam,ירמיהו פירוש בן בלעם,119,139,training
+IbnQuraysh_Aygrt,Judah ibn Quraysh,איגרת,112,122,evaluation
+Maim_Agrvt,Maimonides,"אגרות הרמב""ם (א-ב)",135,146,training
+Maim_bAvr,Maimonides,באור מלאכת ההגיון,49,65,evaluation
+Maim_mvrh,Maimonides,מורה נבוכים,6,467,training
+Maim_prvSH1,Maimonides,פרוש המשנה א. סדר זרעים,52,431,training
+Maim_prvSH2,Maimonides,פרוש המשנה ב. סדר מועד,53,382,training
+Maim_prvSH3,Maimonides,פרוש המשנה ג. סדר נשים,50,307,training
+Maim_prvSH4,Maimonides,פרוש המשנה ד. סדר נזיקין,54,482,training
+Maim_prvSH5,Maimonides,פרוש המשנה ה. סדר קדשים,55,460,training
+Maim_prvSH6,Maimonides,פרוש המשנה ו. סדר טהרות,56,729,training
+Maim_spr,Maimonides,"ספר המצוות לרמב""ם",51,347,training
+Maim_tSHvbvt1,Maimonides,"תשובות הרמב""ם א",144,286,training
+Maim_tSHvbvt2,Maimonides,"תשובות הרמב""ם ב",145,248,training
+Maim_tSHvbvt3,Maimonides,"תשובות הרמב""ם ג",146,25,training
+Maim_tSHvbvt4,Maimonides,"תשובות הרמב""ם ד",147,26,training
+IbnEzra_h`yvnym,Moses ibn Ezra,העיונים והדיונים,8,155,evaluation
+MubashshirLev_hSHgvt,Mubashshir ha-Levi,"השגות על רס""ג",57,57,evaluation
+NathanYesh_prvSH,Nathan Av ha-Yeshiva,פרוש המשנה לרבי נתן,143,203,evaluation
+NethBenIsa_mAvr,Nethanel ben Isaiah,מאור האפלה,102,577,evaluation
+alFayyumi_gn,Nethanel ben al-Fayyumi,גן השכלים,80,122,evaluation
+NissimG_HmSHh,Nissim Gaon,חמשה ספרים,114,327,evaluation
+ObasiahMaim_mAmr,Obadiah Maimonides,מאמר הנברכת,132,29,evaluation
+SaadiaG_Astr,Saadia Gaon,אסתר תרגום,21,22,training
+SaadiaG_AyKHh,Saadia Gaon,איכה תרגום,22,23,training
+SaadiaG_Ayvb:1,Saadia Gaon,איוב: פירוש (ספר הצידוק),9,186,training
+SaadiaG_Ayvb:2,Saadia Gaon,איוב: תרגום (ספר הצידוק),10,174,training
+SaadiaG_SHmvt1,Saadia Gaon,שמות פירוש,96,162,training
+SaadiaG_SHmvt2,Saadia Gaon,שמות תרגום (תפסיר תורה),59,62,training
+SaadiaG_SHyr1,Saadia Gaon,"שיר השירים פירוש רס""ג",26,62,training
+SaadiaG_SHyr2,Saadia Gaon,שיר השירים תרגום,18,36,training
+SaadiaG_bmdbr,Saadia Gaon,במדבר תרגום (תפסיר תורה),61,62,training
+SaadiaG_brASHyt1,Saadia Gaon,בראשית פירוש,103,177,training
+SaadiaG_brASHyt2,Saadia Gaon,בראשית תרגום (תפסיר תורה),58,80,training
+SaadiaG_dbrym,Saadia Gaon,דברים תרגום (תפסיר תורה),62,57,training
+SaadiaG_dnyAl1,Saadia Gaon,דניאל פירוש,37,153,training
+SaadiaG_dnyAl2,Saadia Gaon,דניאל תרגום,31,116,training
+SaadiaG_hnbHr,Saadia Gaon,הנבחר באמונות ודעות,13,326,training
+SaadiaG_khlt,Saadia Gaon,קהלת תרגום (ספר הפרישות),20,38,training
+SaadiaG_mSHly:1,Saadia Gaon,משלי: פירוש (ספר דרישת החכמה),11,267,training
+SaadiaG_mSHly:2,Saadia Gaon,משלי: תרגום (ספר דרישת החכמה),12,216,training
+SaadiaG_mgylt,Saadia Gaon,מגילת אנטיוכס תרגום,38,13,training
+SaadiaG_rvt,Saadia Gaon,רות תרגום,19,17,evaluation
+SaadiaG_spr1,Saadia Gaon,ספר יצירה פירוש,45,125,training
+SaadiaG_spr2,Saadia Gaon,ספר צחות הלשון,136,137,training
+SaadiaG_thlym1,Saadia Gaon,תהלים פירוש,84,236,training
+SaadiaG_thlym2,Saadia Gaon,תהלים תרגום,83,234,training
+SaadiaG_vykrA,Saadia Gaon,ויקרא תרגום (תפסיר תורה),60,47,training
+SaadiaG_ySH`yh,Saadia Gaon,ישעיה תרגום,116,143,training
+SaadiaG_ySH`yhv,Saadia Gaon,"ישעיהו פרוש רס""ג",138,93,training
+SaadiaBD_mdrSH1,Saadia ben David al-Adeni,מדרש הבאור א,90,564,training
+SaadiaBD_mdrSH2,Saadia ben David al-Adeni,מדרש הבאור ב,91,699,training
+SamBenAli_Agrvt,Samuel ben Ali,אגרות שמואל בן עלי,124,92,evaluation
+BenHofniG_`SHr,Samuel ben Hofni Gaon,"עשר שאלות לרשב""ח",98,27,evaluation
+BenHofniG_mbvA,Samuel ben Hofni Gaon,מבוא התלמוד,110,52,evaluation
+BenHofniG_pyrvSH,Samuel ben Hofni Gaon,"פירוש התורה לרשב""ח",106,256,evaluation
+BenHofniG_spr1,Samuel ben Hofni Gaon,ספר דיני מצות הציצית,109,24,evaluation
+BenHofniG_spr2,Samuel ben Hofni Gaon,ספר הבגרות,107,49,evaluation
+BenHofniG_spr3,Samuel ben Hofni Gaon,ספר הגירושין,105,94,evaluation
+BenHofniG_spr4,Samuel ben Hofni Gaon,"ספר המצוות לרשב""ח",97,32,evaluation
+TanhumYeru_dnyAl,Tanhum ha-Yerushalmi,דניאל פירוש מספר הבאור,44,44,evaluation
+TanhumYeru_hmdryKH,Tanhum ha-Yerushalmi,המדריך המספיק,126,328,training
+TanhumYeru_prvSH1,Tanhum ha-Yerushalmi,פרוש אסתר לתנחום,128,18,training
+TanhumYeru_prvSH2,Tanhum ha-Yerushalmi,פרוש רות לתנחום,127,12,training
+TanhumYeru_try,Tanhum ha-Yerushalmi,תרי עשר פירוש,115,175,training
+Unk_Astr,Unknown,אסתר שרידי מדרש,25,3,training
+Unk_SHyr,Unknown,שיר השירים פירוש עתיק,23,39,training
+Unk_hm`SHh,Unknown,המעשה בפולמוס הכומר,100,66,training
+Unk_hm`lvt,Unknown,המעלות לדרגות ימות המשיח,82,28,training
+Unk_rvt,Unknown,רות פירוש מדרשי,24,3,evaluation
+Unk_spr1,Unknown,ספר האמתיות,16,103,training
+Unk_spr2,Unknown,ספר יוסף בן גוריון הערבי,141,137,training
+Unk_t`vdvt,Unknown,תעודות יהודי סיציליה,137,299,training
+ZerahiahLev_SHyr,Zerahiah ha-Levi,"שיר השירים פירוש רז""ה",30,57,evaluation

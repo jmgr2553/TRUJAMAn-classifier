@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+
+# FJMS texts: used for training locally, never published (FJMS terms of use).
+# Only the lists of works (works.csv) are committed.
+1.Data/b.Training/b.1.Training/*.csv
+1.Data/b.Training/b.2.Evaluation/*.csv
+!1.Data/b.Training/b.1.Training/works.csv
+!1.Data/b.Training/b.2.Evaluation/works.csv
+eval_predictions.csv
+!1.Data/b.Training/b.2.Evaluation/evaluation_scores.csv

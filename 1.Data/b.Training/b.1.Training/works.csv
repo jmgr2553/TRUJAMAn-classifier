@@ -1,0 +1,71 @@
+codeName,author,title,words_JA,words_HE,pct_HE
+AbMaimonides_brASHyt,Abraham Maimonides,בראשית שמות פירוש,58582,20294,0.257
+AbMaimonides_hmspyk1,Abraham Maimonides,המספיק לעובדי השם (כרך ב חלק ב),39882,14362,0.265
+AbMaimonides_hmspyk2,Abraham Maimonides,המספיק לעובדי השם (כרך ט חלק א),5842,2295,0.282
+AbMaimonides_hmspyk3,Abraham Maimonides,המספיק לעובדי השם (כרך ט חלק ב),28721,9855,0.255
+AbrBenSol_SHmvAl1,Abraham ben Solomon,שמואל א פירוש,21025,41927,0.666
+AbrBenSol_SHmvAl2,Abraham ben Solomon,שמואל ב פירוש,16728,33045,0.664
+AbrBenSol_SHvpTym,Abraham ben Solomon,שופטים פירוש,12442,20683,0.624
+AbrBenSol_mlKHym,Abraham ben Solomon,מלכים א פירוש,31092,40423,0.565
+DavidBenAbraMaim_prky,David ben Abraham Maimonides,פרקי אבות (מדרש דוד),45595,12063,0.209
+IbnBalam_SHlSHh,Judah ibn Balam,שלשה ספרי דקדוק,3932,3156,0.445
+IbnBalam_SHvpTym,Judah ibn Balam,שופטים פירוש בן בלעם,2829,1327,0.319
+IbnBalam_try,Judah ibn Balam,תרי עשר פירוש בן בלעם,7424,4047,0.353
+IbnBalam_yHzkAl,Judah ibn Balam,יחזקאל פירוש בן בלעם,7446,3106,0.294
+IbnBalam_ySH`yhv,Judah ibn Balam,ישעיהו פירוש בן בלעם,15272,6336,0.293
+IbnBalam_yrmyhv,Judah ibn Balam,ירמיהו פירוש בן בלעם,5919,2792,0.321
+IbnJanah_spr1,Jonah ibn Janah,ספר ההשוואה,3911,599,0.133
+IbnJanah_spr2,Jonah ibn Janah,ספר הרקמה,66441,41130,0.382
+Maim_Agrvt,Maimonides,"אגרות הרמב""ם (א-ב)",25752,6659,0.205
+Maim_mvrh,Maimonides,מורה נבוכים,125243,17275,0.121
+Maim_prvSH1,Maimonides,פרוש המשנה א. סדר זרעים,63127,25678,0.289
+Maim_prvSH2,Maimonides,פרוש המשנה ב. סדר מועד,50426,23695,0.320
+Maim_prvSH3,Maimonides,פרוש המשנה ג. סדר נשים,35826,19818,0.356
+Maim_prvSH4,Maimonides,פרוש המשנה ד. סדר נזיקין,69716,26478,0.275
+Maim_prvSH5,Maimonides,פרוש המשנה ה. סדר קדשים,60823,31904,0.344
+Maim_prvSH6,Maimonides,פרוש המשנה ו. סדר טהרות,112993,51043,0.311
+Maim_spr,Maimonides,"ספר המצוות לרמב""ם",44862,28208,0.386
+Maim_tSHvbvt1,Maimonides,"תשובות הרמב""ם א",32826,7829,0.193
+Maim_tSHvbvt2,Maimonides,"תשובות הרמב""ם ב",24438,8518,0.258
+Maim_tSHvbvt3,Maimonides,"תשובות הרמב""ם ג",2477,1158,0.319
+Maim_tSHvbvt4,Maimonides,"תשובות הרמב""ם ד",3173,911,0.223
+SaadiaBD_mdrSH1,Saadia ben David al-Adeni,מדרש הבאור א,31136,107983,0.776
+SaadiaBD_mdrSH2,Saadia ben David al-Adeni,מדרש הבאור ב,13016,165937,0.927
+SaadiaG_Astr,Saadia Gaon,אסתר תרגום,3004,250,0.077
+SaadiaG_AyKHh,Saadia Gaon,איכה תרגום,1854,25,0.013
+SaadiaG_Ayvb:1,Saadia Gaon,איוב: פירוש (ספר הצידוק),16756,4042,0.194
+SaadiaG_Ayvb:2,Saadia Gaon,איוב: תרגום (ספר הצידוק),10388,44,0.004
+SaadiaG_SHmvt1,Saadia Gaon,שמות פירוש,57452,21423,0.272
+SaadiaG_SHmvt2,Saadia Gaon,שמות תרגום (תפסיר תורה),16659,190,0.011
+SaadiaG_SHyr1,Saadia Gaon,"שיר השירים פירוש רס""ג",6283,3701,0.371
+SaadiaG_SHyr2,Saadia Gaon,שיר השירים תרגום,1465,5,0.003
+SaadiaG_bmdbr,Saadia Gaon,במדבר תרגום (תפסיר תורה),15559,1002,0.061
+SaadiaG_brASHyt1,Saadia Gaon,בראשית פירוש,53747,14520,0.213
+SaadiaG_brASHyt2,Saadia Gaon,בראשית תרגום (תפסיר תורה),20182,1686,0.077
+SaadiaG_dbrym,Saadia Gaon,דברים תרגום (תפסיר תורה),14679,243,0.016
+SaadiaG_dnyAl1,Saadia Gaon,דניאל פירוש,20127,7192,0.263
+SaadiaG_dnyAl2,Saadia Gaon,דניאל תרגום,6222,185,0.029
+SaadiaG_hnbHr,Saadia Gaon,הנבחר באמונות ודעות,56260,11664,0.172
+SaadiaG_khlt,Saadia Gaon,קהלת תרגום (ספר הפרישות),3345,10,0.003
+SaadiaG_mSHly:1,Saadia Gaon,משלי: פירוש (ספר דרישת החכמה),41268,6549,0.137
+SaadiaG_mSHly:2,Saadia Gaon,משלי: תרגום (ספר דרישת החכמה),8205,30,0.004
+SaadiaG_mgylt,Saadia Gaon,מגילת אנטיוכס תרגום,2284,204,0.082
+SaadiaG_spr1,Saadia Gaon,ספר יצירה פירוש,18288,3911,0.176
+SaadiaG_spr2,Saadia Gaon,ספר צחות הלשון,19879,5939,0.230
+SaadiaG_thlym1,Saadia Gaon,תהלים פירוש,14124,5143,0.267
+SaadiaG_thlym2,Saadia Gaon,תהלים תרגום,24723,404,0.016
+SaadiaG_vykrA,Saadia Gaon,ויקרא תרגום (תפסיר תורה),12230,50,0.004
+SaadiaG_ySH`yh,Saadia Gaon,ישעיה תרגום,27327,2767,0.092
+SaadiaG_ySH`yhv,Saadia Gaon,"ישעיהו פרוש רס""ג",33800,9499,0.219
+TanhumYeru_hmdryKH,Tanhum ha-Yerushalmi,המדריך המספיק,109666,52626,0.324
+TanhumYeru_prvSH1,Tanhum ha-Yerushalmi,פרוש אסתר לתנחום,3510,1562,0.308
+TanhumYeru_prvSH2,Tanhum ha-Yerushalmi,פרוש רות לתנחום,1893,1018,0.350
+TanhumYeru_try,Tanhum ha-Yerushalmi,תרי עשר פירוש,46532,19583,0.296
+Unk_Astr,Unknown,אסתר שרידי מדרש,627,282,0.310
+Unk_SHyr,Unknown,שיר השירים פירוש עתיק,4639,1273,0.215
+Unk_hm`SHh,Unknown,המעשה בפולמוס הכומר,14477,791,0.052
+Unk_hm`lvt,Unknown,המעלות לדרגות ימות המשיח,4774,1541,0.244
+Unk_spr1,Unknown,ספר האמתיות,14813,4668,0.240
+Unk_spr2,Unknown,ספר יוסף בן גוריון הערבי,36755,1965,0.051
+Unk_t`vdvt,Unknown,תעודות יהודי סיציליה,62679,6096,0.089
+alHarizi_spr,Judah al-Harizi,ספר פניני המוסרים,10902,286,0.026
