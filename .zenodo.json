@@ -32,6 +32,12 @@
       "relation": "isSupplementedBy",
       "scheme": "url",
       "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.23923040",
+      "relation": "isDocumentedBy",
+      "scheme": "doi",
+      "resource_type": "publication-workingpaper"
     }
   ],
   "references": [
