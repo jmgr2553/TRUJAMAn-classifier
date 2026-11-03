@@ -28,10 +28,10 @@ references:
         family-names: Moreno Gonzalez
         orcid: 'https://orcid.org/0009-0003-6528-0736'
     year: 2026
-    notes: Working paper, v0.1
+    notes: Working paper, v0.2
     publisher:
       name: Zenodo
-    doi: 10.5281/zenodo.23923041
+    doi: 10.5281/zenodo.23926319
   - type: database
     title: Friedberg Jewish Manuscript Society Judeo-Arabic portal
     url: 'https://fjms.genizah.org'

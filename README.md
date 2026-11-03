@@ -10,7 +10,7 @@ TRUJAMAn is a word-level classifier that labels every word in a Hebrew-script te
 
 **Try it online:** [trujaman.streamlit.app](https://trujaman.streamlit.app/), where you can paste a text and download the tagged words as CSV.
 
-**Paper:** [*TRUJAMAn: Word-Level Recognition of Judeo-Arabic and Hebrew in Medieval Texts*](https://doi.org/10.5281/zenodo.23923041) (working paper, v0.1), with the data, method and full results.
+**Paper:** [*TRUJAMAn: Word-Level Recognition of Judeo-Arabic and Hebrew in Medieval Texts*](https://doi.org/10.5281/zenodo.23926319) (working paper, v0.2), with the data, method and full results.
 
 > ⚠️ **Beta.** The labels are machine-generated. Check anything important against the text.
 
@@ -118,6 +118,6 @@ The **model and data** (`trujaman_v0.1-beta.joblib`, `1.Data/`) are licensed und
 
 To cite the working paper that describes the model and its evaluation:
 
-> Moreno Gonzalez, J. (2026). *TRUJAMAn: Word-Level Recognition of Judeo-Arabic and Hebrew in Medieval Texts* (Working paper, v0.1). Zenodo. https://doi.org/10.5281/zenodo.23923041
+> Moreno Gonzalez, J. (2026). *TRUJAMAn: Word-Level Recognition of Judeo-Arabic and Hebrew in Medieval Texts* (Working paper, v0.2). Zenodo. https://doi.org/10.5281/zenodo.23926319
 
 To cite TRUJAMAn in general (always resolves to the latest version), use [doi:10.5281/zenodo.23921993](https://doi.org/10.5281/zenodo.23921993). See also [`CITATION.cff`](CITATION.cff) or GitHub's **"Cite this repository"** button.
