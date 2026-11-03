@@ -63,15 +63,15 @@ The 110 works by 36 authors come from the Judeo-Arabic portal of the **Friedberg
 
 Scores on the 40 held-out works (1,070,917 words, 36% Hebrew):
 
-| | Precision | Recall | F1 | Words |
-|---|---|---|---|---|
-| Judeo-Arabic | 0.980 | 0.964 | 0.972 | 683,038 |
-| Hebrew | 0.938 | 0.965 | 0.951 | 387,879 |
-| Macro average | 0.959 | 0.964 | 0.962 | 1,070,917 |
-| ***Accuracy*** | | | | |
-| **All evaluation works** | **96.4%** | | | 1,070,917 |
-| Authors unseen in training | 96.4% | | | 974,869 |
-| Authors also in training | 96.6% | | | 95,493 |
+| | Precision | Recall | F1 | Accuracy | Words |
+|---|---|---|---|---|---|
+| Judeo-Arabic | 0.980 | 0.964 | 0.972 | | 683,038 |
+| Hebrew | 0.938 | 0.965 | 0.951 | | 387,879 |
+| **All evaluation works** | 0.959 | 0.964 | 0.962 | **96.4%** | 1,070,917 |
+| Authors unseen in training | 0.958 | 0.964 | 0.961 | 96.4% | 974,869 |
+| Authors also in training | 0.966 | 0.966 | 0.966 | 96.6% | 95,493 |
+
+For the last three rows, precision, recall and F1 are the average of the two languages (macro average). Accuracy applies only to a whole set of words, not to one language.
 
 91% of the evaluation words come from authors the model has never seen, and it does as well on them as on new works by known authors. Accuracy per work ranges from 89% (Ibn Quraysh, *Risāla*) to 99%. Scores for every work are in [`evaluation_scores.csv`](1.Data/b.Training/b.2.Evaluation/evaluation_scores.csv). In works with almost no Hebrew (e.g. under 1%), F1 for Hebrew is low because a handful of errors weighs heavily; accuracy is the better guide there.
 
