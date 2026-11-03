@@ -11,7 +11,7 @@ repository-code: 'https://github.com/jmgr2553/TRUJAMAn-classifier'
 url: 'https://trujaman.streamlit.app'
 license: CC-BY-NC-4.0
 version: 0.1.0-beta
-date-released: '2026-10-24'
+date-released: '2026-11-03'
 keywords:
   - Judaeo-Arabic
   - Hebrew
