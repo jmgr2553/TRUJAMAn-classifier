@@ -1,0 +1,40 @@
+{
+  "title": "TRUJAMAn: Textual Recognition Unit for Judeo-Arabic (and Hebrew) in Medieval Anthologies",
+  "upload_type": "software",
+  "description": "TRUJAMAn is a word-level classifier that labels every word in a Hebrew-script text as Judeo-Arabic or Hebrew. It is meant for medieval Judeo-Arabic works, where Hebrew quotations, terms and phrases are woven into Arabic prose. Each word is classified together with its neighbours, using character sequences of 1 to 5 letters (TF-IDF) and a logistic regression (scikit-learn 1.9.0). It was trained on 70 works and evaluated on 40 held-out works (1.07 million words) from the Judeo-Arabic portal of the Friedberg Jewish Manuscript Society, with 96.4% accuracy overall and 96.4% on the 31 works by authors unseen in training. The release contains the trained model, the training and test notebooks, the list of works used and the evaluation scores. The texts themselves are not included, as the FJMS terms of use do not allow them to be redistributed. Beta release: the labels are machine-generated. An online version is available at https://trujaman.streamlit.app.",
+  "creators": [
+    {
+      "name": "Moreno Gonzalez, Juan",
+      "orcid": "0009-0003-6528-0736",
+      "affiliation": "Faculty of Asian and Middle Eastern Studies, University of Cambridge"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "keywords": [
+    "Judaeo-Arabic",
+    "Hebrew",
+    "language identification",
+    "code-switching",
+    "medieval manuscripts",
+    "digital humanities"
+  ],
+  "notes": "Licences: the model and data (trujaman_v0.1-beta.joblib, 1.Data/) are under CC BY-NC 4.0; the code (1.Training.ipynb, 2.Test.ipynb) is under the MIT License. Texts courtesy of The National Library of Israel / The Friedberg Jewish Manuscript Society; the transcriptions and their language markup are the copyright of their authors.",
+  "related_identifiers": [
+    {
+      "identifier": "https://fjms.genizah.org",
+      "relation": "isDerivedFrom",
+      "scheme": "url",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://trujaman.streamlit.app",
+      "relation": "isSupplementedBy",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ],
+  "references": [
+    "The National Library of Israel / The Friedberg Jewish Manuscript Society. Judeo-Arabic portal. https://fjms.genizah.org"
+  ]
+}
