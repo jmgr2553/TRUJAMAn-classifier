@@ -84,6 +84,8 @@ Scores on the 40 held-out works (1,070,917 words, 36% Hebrew):
 1.Training.ipynb      trains the model and evaluates it
 2.Test.ipynb          tests the published model: per work, precision/recall, seen vs unseen authors,
                       confusion matrix, language switches, confidence, frequent words and chunks
+                      (with short five-word examples), and a combined table of error-prone and
+                      strongly weighted words
 trujaman_v0.1-beta.joblib
 ```
 
