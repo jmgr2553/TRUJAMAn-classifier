@@ -7,6 +7,7 @@ authors:
     family-names: Moreno Gonzalez
     affiliation: Faculty of Asian and Middle Eastern Studies, University of Cambridge
     orcid: 'https://orcid.org/0009-0003-6528-0736'
+doi: 10.5281/zenodo.23921993
 repository-code: 'https://github.com/jmgr2553/TRUJAMAn-classifier'
 url: 'https://trujaman.streamlit.app'
 license: CC-BY-NC-4.0

@@ -1,5 +1,7 @@
 # TRUJAMAn 🧙
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23921993.svg)](https://doi.org/10.5281/zenodo.23921993)
+
 **Textual Recognition Unit for Judeo-Arabic (and Hebrew) in Medieval Anthologies**
 
 *Beta release v0.1.0* · Juan Moreno Gonzalez ([ORCID 0009-0003-6528-0736](https://orcid.org/0009-0003-6528-0736)), Faculty of Asian and Middle Eastern Studies, University of Cambridge
@@ -108,6 +110,6 @@ The **model and data** (`trujaman_v0.1-beta.joblib`, `1.Data/`) are licensed und
 
 ## Citation
 
-> Moreno Gonzalez, J. (2026). *TRUJAMAn: Textual Recognition Unit for Judeo-Arabic (and Hebrew) in Medieval Anthologies* (Version v0.1.0-beta) [Computer software].
+> Moreno Gonzalez, J. (2026). *TRUJAMAn: Textual Recognition Unit for Judeo-Arabic (and Hebrew) in Medieval Anthologies* (Version v0.1.0-beta) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23921994
 
-See also [`CITATION.cff`](CITATION.cff) or GitHub's **"Cite this repository"** button. A DOI will be added with the Zenodo release.
+To cite TRUJAMAn in general (always resolves to the latest version), use [doi:10.5281/zenodo.23921993](https://doi.org/10.5281/zenodo.23921993). See also [`CITATION.cff`](CITATION.cff) or GitHub's **"Cite this repository"** button.
