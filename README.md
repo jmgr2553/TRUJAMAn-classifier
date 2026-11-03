@@ -54,8 +54,10 @@ Each word is cleaned (diacritics such as the upper dot, rafe and geresh, quotati
 
 | | Works | Words |
 |---|---|---|
-| Training (`1.Data/b.Training/b.1.Training/`) | 70 | 2,859,197 |
-| Evaluation (`1.Data/b.Training/b.2.Evaluation/`) | 40 | 1,073,511 |
+| Training (`1.Data/b.Training/b.1.Training/`) | 70 | 2,852,411 |
+| Evaluation (`1.Data/b.Training/b.2.Evaluation/`) | 40 | 1,070,917 |
+
+Words are counted after cleaning, as the model sees them: editorial marks such as `[…]`, `-` and `(?)`, which the transcriptions label with a language, are not counted. The `works.csv` files count every word labelled JA or HE, so their totals are slightly higher (3,932,708 in all, against 3,923,328).
 
 The 110 works by 36 authors come from the Judeo-Arabic portal of the **Friedberg Jewish Manuscript Society (FJMS)**, in which every word of the transcription is marked as Hebrew or Judeo-Arabic. The evaluation set holds one work by each author, plus every work by **Ben Hofni**. Authors with a single work in the corpus therefore appear only in evaluation: 31 of the 40 evaluation works are by 25 authors the model never saw in training.
 
