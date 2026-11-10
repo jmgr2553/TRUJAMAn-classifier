@@ -4,15 +4,13 @@
 
 **Textual Recognition Unit for Judeo-Arabic (and Hebrew) in Medieval Anthologies**
 
-*Beta release v0.1.0* · Juan Moreno Gonzalez ([ORCID 0009-0003-6528-0736](https://orcid.org/0009-0003-6528-0736)), Faculty of Asian and Middle Eastern Studies, University of Cambridge
+*Beta release v0.1.0* · Juan Moreno-Gonzalez ([ORCID 0009-0003-6528-0736](https://orcid.org/0009-0003-6528-0736)), PhD candidate in Asian and Middle Eastern Studies, University of Cambridge
 
 TRUJAMAn is a word-level classifier that labels every word in a Hebrew-script text as **Judeo-Arabic (JA)** or **Hebrew (HE)**. It is meant for medieval Judeo-Arabic works, where Hebrew quotations, terms and phrases are woven into Arabic prose.
 
 **Try it online:** [trujaman.streamlit.app](https://trujaman.streamlit.app/), where you can paste a text and download the tagged words as CSV.
 
 **Paper:** [*TRUJAMAn: Word-Level Recognition of Judeo-Arabic and Hebrew in Medieval Texts*](https://doi.org/10.5281/zenodo.23926319) (working paper, v0.2), with the data, method and full results.
-
-> ⚠️ **Beta.** The labels are machine-generated. Check anything important against the text.
 
 ---
 
@@ -61,9 +59,9 @@ Each word is cleaned (diacritics such as the upper dot, rafe and geresh, quotati
 
 Words are counted after cleaning, as the model sees them: editorial marks such as `[…]`, `-` and `(?)`, which the transcriptions label with a language, are not counted. The `works.csv` files count every word labelled JA or HE, so their totals are slightly higher (3,932,708 in all, against 3,923,328).
 
-The 110 works by 36 authors come from the Judeo-Arabic portal of the **Friedberg Jewish Manuscript Society (FJMS)**, in which every word of the transcription is marked as Hebrew or Judeo-Arabic. The evaluation set holds one work by each author, plus every work by **Ben Hofni**. Authors with a single work in the corpus therefore appear only in evaluation: 31 of the 40 evaluation works are by 25 authors the model never saw in training.
+The 110 works by 36 authors come from the Judeo-Arabic portal of the **Friedberg Jewish Manuscript Society (FJMS)**, in which every word of the transcription is marked as Hebrew or Judeo-Arabic. The evaluation set holds one work by each author, plus every work by **Samuel Ben Hofni**. Authors with a single work in the corpus therefore appear only in evaluation: 31 of the 40 evaluation works are by 25 authors the model never saw in training.
 
-**The texts are not included in this repository**, because the FJMS terms of use do not allow them to be redistributed. The repository lists the works used (`1.Data/a.Sources/sources.csv`, and `works.csv` in each training folder) with word counts and the share of Hebrew in each. To retrain the model, add the texts from FJMS as described in `1.Training.ipynb` and run its training cell.
+**The texts are not included in this repository**. The repository lists the works used (`1.Data/a.Sources/sources.csv`, and `works.csv` in each training folder) with word counts and the share of Hebrew in each. To retrain the model, add the texts from FJMS as described in `1.Training.ipynb` and run its training cell.
 
 ## Evaluation
 
