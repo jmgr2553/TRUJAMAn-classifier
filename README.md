@@ -50,6 +50,9 @@ The model must be loaded with **scikit-learn 1.9.0** (`pip install -r requiremen
 
 Each word is cleaned (diacritics such as the upper dot, rafe and geresh, quotation marks and punctuation are removed), so the model does not depend on how a manuscript is pointed. It is then classified **together with the word before and after it**, using character sequences of 1 to 5 letters (TF-IDF) and a logistic regression.
 
+## Why this name?
+ In Spanish, 'trujamán' is defined as 'Individual who advises or arbitrates while carrying out something, particularly purchases, sales or exchanges'. It is a beautiful word, part of the rich heritage Arabic left in Spanish language, that comes from the root t-r-g-m, which means 'to translate' both in Arabic (تَرْجَمَ) and Hebrew (תִּרְגֵּם). The 'trujamanes' were the translators who mediated between the Christian kingdoms of the North and Arabic-speaking Andalusian kingdoms.
+
 ## Training data
 
 | | Works | Words |
